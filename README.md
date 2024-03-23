@@ -6,4 +6,4 @@ Driven by a genuine passion for technology and a commitment to contributing to a
 
 With strengths in time management, fast learning,  attention to detail, and a strong passion for programming, I am confident I could excel in the cybersecurity domain. My dedication to continuous learning ensures that I am always ready to adapt and grow in this dynamic field.
 
-This portfolio is in its early stages and I will keep updating it and adding to it as I progress with my learning. 
+**This portfolio is in its early stages and I will keep updating it and adding to it as I progress with my learning. **
